@@ -33,6 +33,3 @@ I'm a Fullstack web developer and a seasoned mental health professional. I start
 <a href="http://www.github.com/SwathiVinod19"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SwathiVinod19&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
