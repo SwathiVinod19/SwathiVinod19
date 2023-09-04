@@ -7,13 +7,13 @@ Fullstack Developer
 I'm a Fullstack web developer and a seasoned mental health professional. I started my journey with web development in April 2023 and have been learning passionately ever since. I'm hardworking, dedicated and enjoy a new challenge.
 
 <br>
-<p align="center">
+<p align="left">
   <br>
   👩‍🏫I am a passionate Full Stack Web developer residing in Greater Kitchener-Cambridge-Waterloo Metropolitan Area .
   <br>
   🔬 I'm currently learning React and MERN stack.
   <br> 
-  ✉️  You can contact me at [swathi.vinod@gmail.com](mailto:swathi.vinod@gmail.com)
+  ✉️  You can contact me at <a href="mailto: swathi.vinod@gmail.com">swathi.vinod@gmail.com</a>
   <br>
   ⚡  When I'm not coding, you'll find me volunteering at animal shelter, reading crime fiction or binge-watching sitcoms!
 </p>
