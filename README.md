@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
-I'm a Fullstack web developer and a seasoned mental health professional. I started my journey with web development in April 2022 and have been learning passionately ever since. I'm hardworking, dedicated and enjoy a new challenge.
+I'm a Fullstack web developer and a seasoned mental health professional. I started my journey with web development in April 2023 and have been learning passionately ever since. I'm hardworking, dedicated and enjoy a new challenge.
 
 * 🌍  I'm based in Kitchener, Ontario
 * ✉️  You can contact me at [swathi.vinod@gmail.com](mailto:swathi.vinod@gmail.com)
