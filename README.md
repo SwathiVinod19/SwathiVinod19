@@ -13,7 +13,7 @@ I'm a Fullstack web developer and a seasoned mental health professional. I start
 <br>
 <p align="left">
   <br>
-  👩‍🏫I am a passionate Full Stack Web developer residing in Greater Kitchener-Cambridge-Waterloo Metropolitan Area .
+  👩‍🏫I reside in Greater Kitchener-Cambridge-Waterloo Metropolitan Area .
   <br>
   🔬 I'm currently learning React and MERN stack.
   <br> 
